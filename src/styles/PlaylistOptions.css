@@ -19,7 +19,7 @@
     background-color: black; 
     display: grid;
     grid-template-columns: 400px 400px 400px;
-    grid-template-rows: 332px 332px 332px 332px;
+    grid-template-rows: 320px 320px 320px 320px;
     grid-gap: 50px;
     -ms-grid-column-align: center;
 } 
@@ -45,10 +45,13 @@
   background: rgba(255, 255, 255, 0.527);
 }
 
+.box-title {
+    margin-top: 30px;
+}
 
 .PLO-des {
     margin-top: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 45px;
     font-size: 20px;
     padding-left: 10pt;
     padding-right: 10pt;
@@ -58,7 +61,6 @@
 
 
 .PLO-btn {
-    appearance: button;
     background-color: #0ec158;
     border-radius: 30px;
     color: white;
