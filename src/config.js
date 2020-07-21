@@ -1,6 +1,6 @@
 export const authEndpoint = 'https://accounts.spotify.com/authorize?';
 export const clientId = "5b6937ee59594376822e556cd3db243b";
-export const redirectUri = "http://localhost:3000";
+export const redirectUri = "https://gianna-aprile.github.io/Mixified-React/";
 
 export const scopes = [
     "playlist-modify-public",
