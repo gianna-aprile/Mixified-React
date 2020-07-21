@@ -1,17 +1,22 @@
-.PLO {
+body{ 
     background-color: black; 
+}
+
+.PLO {
     text-align: center;
 }
 
 .PLO-logo {
-    width: 20%;
-    height: 20%;
+    margin-top: 30px;
+    width: 22%;
+    height: 22%;
 }
 
 .PLO-title {
     font-weight: bold;
-    font-size: 70px;
-    margin-top: 10px;
+    font-size: 75px;
+    margin-top: -15px;
+    margin-bottom: 40px;
     letter-spacing: 1.5px;
 }
 
@@ -34,8 +39,8 @@
     inset 0 0 0 10px #1fe471;
     border-radius: 20px;
     border-width: 5px;
-    margin-left:20px;
-    margin-right:40px; 
+    margin-left:25px;
+    margin-right:35px; 
     margin-bottom:40px; 
     padding-bottom:20px;
     transition: 0.4s all ease-in;
@@ -47,14 +52,15 @@
 
 .box-title {
     margin-top: 30px;
+    font-size: 30px;
 }
 
 .PLO-des {
     margin-top: 10px;
-    margin-bottom: 45px;
+    margin-bottom: 35px;
     font-size: 20px;
-    padding-left: 10pt;
-    padding-right: 10pt;
+    padding-left: 13pt;
+    padding-right: 13pt;
     text-align: center;
     letter-spacing: 0.75px;
 }   

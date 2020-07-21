@@ -55,6 +55,7 @@ class PlaylistOptions extends React.Component {
 
     render(){
     return (
+      <body>
       <div className="PLO">
             <div className="PLO-header">
               <img src={logo} className="PLO-logo" alt="Logo"/>
@@ -304,6 +305,7 @@ class PlaylistOptions extends React.Component {
             </div>
           </div>
       </div>
+      </body>
     );
   }
 }
