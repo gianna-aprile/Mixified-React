@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mixified-React/static/css/main.3464905f.chunk.css",
-    "main.js": "/Mixified-React/static/js/main.79363d2c.chunk.js",
-    "main.js.map": "/Mixified-React/static/js/main.79363d2c.chunk.js.map",
+    "main.js": "/Mixified-React/static/js/main.47e822a0.chunk.js",
+    "main.js.map": "/Mixified-React/static/js/main.47e822a0.chunk.js.map",
     "runtime-main.js": "/Mixified-React/static/js/runtime-main.180b00ac.js",
     "runtime-main.js.map": "/Mixified-React/static/js/runtime-main.180b00ac.js.map",
     "static/css/2.627926fe.chunk.css": "/Mixified-React/static/css/2.627926fe.chunk.css",
     "static/js/2.654c8b1c.chunk.js": "/Mixified-React/static/js/2.654c8b1c.chunk.js",
     "static/js/2.654c8b1c.chunk.js.map": "/Mixified-React/static/js/2.654c8b1c.chunk.js.map",
     "index.html": "/Mixified-React/index.html",
-    "precache-manifest.dc47b9d683fe5c96c8bc161529c5a36c.js": "/Mixified-React/precache-manifest.dc47b9d683fe5c96c8bc161529c5a36c.js",
+    "precache-manifest.628d31f4f1111d9d8ee2afb6d072143e.js": "/Mixified-React/precache-manifest.628d31f4f1111d9d8ee2afb6d072143e.js",
     "service-worker.js": "/Mixified-React/service-worker.js",
     "static/css/2.627926fe.chunk.css.map": "/Mixified-React/static/css/2.627926fe.chunk.css.map",
     "static/css/main.3464905f.chunk.css.map": "/Mixified-React/static/css/main.3464905f.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.627926fe.chunk.css",
     "static/js/2.654c8b1c.chunk.js",
     "static/css/main.3464905f.chunk.css",
-    "static/js/main.79363d2c.chunk.js"
+    "static/js/main.47e822a0.chunk.js"
   ]
 }
