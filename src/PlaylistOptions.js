@@ -55,6 +55,10 @@ class PlaylistOptions extends React.Component {
 
     render(){
     return (
+      <html>
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+      </head>
       <body>
       <div className="PLO">
             <div className="PLO-header">
@@ -306,6 +310,7 @@ class PlaylistOptions extends React.Component {
           </div>
       </div>
       </body>
+      </html>
     );
   }
 }
