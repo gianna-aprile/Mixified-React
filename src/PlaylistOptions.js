@@ -3,6 +3,7 @@ import 'react-confirm-alert/src/react-confirm-alert.css';
 import { confirmAlert } from 'react-confirm-alert';
 import logo from './images/mixifiedLogo.png';
 import './styles/PlaylistOptions.css';
+import { apiURL } from "./config";
 
 class PlaylistOptions extends React.Component {
 
@@ -15,8 +16,7 @@ class PlaylistOptions extends React.Component {
   
   handleButtonClick(playlistType){
       this.setState({loading: true})
-
-      let url = new URL(`https://mixified-api.herokuapp.com/api/${playlistType}`)
+      let url = new URL(`${apiURL}/api/${playlistType}`)
       url.search = new URLSearchParams({ token: this.props.token })
       fetch(url)
       .then((res) => res.json())
