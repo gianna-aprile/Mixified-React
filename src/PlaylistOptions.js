@@ -16,7 +16,7 @@ class PlaylistOptions extends React.Component {
   handleButtonClick(playlistType){
       this.setState({loading: true})
 
-      let url = new URL(`http://mixified-api.us-east-1.elasticbeanstalk.com/api/${playlistType}`)
+      let url = new URL(`https://mixified-api.herokuapp.com/api/${playlistType}`)
       url.search = new URLSearchParams({ token: this.props.token })
       fetch(url)
       .then((res) => res.json())
