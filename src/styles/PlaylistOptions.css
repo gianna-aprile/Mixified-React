@@ -23,6 +23,7 @@ body{
     margin-top: -15px;
     margin-bottom: 40px;
     letter-spacing: 1.5px;
+    color:white
 }
 
 .PLO-container { 
@@ -61,6 +62,7 @@ body{
 .box-title {
     margin-top: 30px;
     font-size: 30px;
+    color: white;
 }
 
 .PLO-des {
@@ -71,6 +73,7 @@ body{
     padding-right: 13pt;
     text-align: center;
     letter-spacing: 0.75px;
+    color: white;
 }   
 
 
