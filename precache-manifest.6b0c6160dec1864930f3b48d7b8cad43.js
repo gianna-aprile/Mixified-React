@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7cdb389ab11c2c28c8f643d60711c7d",
+    "revision": "b2e1061fa684d068b8f98320be8e4a62",
     "url": "/Mixified-React/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mixified-React/static/css/2.627926fe.chunk.css"
   },
   {
-    "revision": "7d381b39441f12f3a521",
-    "url": "/Mixified-React/static/css/main.3464905f.chunk.css"
+    "revision": "c265ca2a0c25206103ce",
+    "url": "/Mixified-React/static/css/main.07f61101.chunk.css"
   },
   {
     "revision": "4c6449df4f770a1fd765",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mixified-React/static/js/2.654c8b1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d381b39441f12f3a521",
-    "url": "/Mixified-React/static/js/main.464bd6c7.chunk.js"
+    "revision": "c265ca2a0c25206103ce",
+    "url": "/Mixified-React/static/js/main.5e438d8d.chunk.js"
   },
   {
     "revision": "55ccf8d35ecb00e46e0c",
